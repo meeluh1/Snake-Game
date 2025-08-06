@@ -8,11 +8,19 @@ A simple yet fun version of the classic Snake Game built using HTML, CSS, and Ja
 
 ## 🎮 Gameplay Features
 
-- Smooth grid-based movement
-- Auto-growing snake as it eats food
-- Game over detection on wall or self-collision
-- Food appears at random positions
-- Clean UI and responsive controls
+## ✨ Features
+
+- ✅ Classic Snake mechanics
+- 🎨 Toggle between **Dark Mode** and **Light Mode**
+- 🔊 **Sound effects** for:
+  - Eating food
+  - Game over
+  - Button clicks
+- 📱 Keyboard controls (`↑ ↓ ← →`)
+- ⚡ Live score display + game over screen
+- 🧠 Clean and easy-to-read code
+- ♻️ Restart button on game over
+
 
 ---
 
